@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
+  username: "Jaswant Pendem",
   title: "Hi all, I'm Jazz",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
@@ -33,11 +33,11 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
+  github: "https://github.com/jaswantgh",
+  linkedin: "https://www.linkedin.com/in/jaswant-pendem-046944223/",
+  gmail: "jaswant.pendem@gmail.com",
+  gitlab: "https://gitlab.com/jaswantgh",
+  facebook: "https://m.facebook.com/fifa.destroyar/",
   medium: "https://medium.com/@saadpasta",
   stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -126,10 +126,10 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "Curtin University",
       logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
+      subHeader: "Bachelors of Engineering in Electrical and Electronic Engineering Honours",
+      duration: "February 2022 - Present",
       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -137,10 +137,10 @@ const educationInfo = {
       ]
     },
     {
-      schoolName: "Stanford University",
+      schoolName: "Curtin University",
       logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
+      subHeader: "Bachelor of Science in Data Science",
+      duration: "February 2022 - Present",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
