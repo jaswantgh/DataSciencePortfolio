@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Jaswant Pedem",
+  username: "Jaswant Pendem",
   title: "Hi all, I'm Jazz",
   subTitle: emoji(
     "Electrical, Electronic Engineering & Data Science Student (3rd Year) | Research Assistant at Intelligent Sensing & Perception Laboratory | The Duke of Edinburgh's International Award Alumni | New Colombo Plan Alumni"
@@ -220,7 +220,7 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Portfolio",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
@@ -281,7 +281,7 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Dataiku",
       subtitle:
         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: require("./assets/images/googleAssistantLogo.webp"),
@@ -295,14 +295,14 @@ const achievementSection = {
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      title: "Duke of Edinburgh’s International Awards: Gold, Silver, Bronze Level",
+      subtitle: "Completed Award at Hale School and awarded in Assembly ",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        {name: "Gold Certification", url: ""},
         {
-          name: "Final Project",
+          name: "Silver Certification",
           url: "https://pakistan-olx-1.firebaseapp.com/"
         }
       ]
@@ -362,11 +362,10 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("Contact Me 📧"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+    "Got an idea or just want to connect? Shoot me an email or find me on LinkedIn! I’m all for making new connections and exploring fresh opportunities. Let’s get networking! 😊",
+  email_address: "jaswant.pendem@gmail.com"
 };
 
 // Twitter Section
