@@ -387,6 +387,5 @@ export {
   talkSection,
   podcastSection,
   contactInfo,
-  twitterDetails,
   isHireable
 };
