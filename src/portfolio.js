@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Jaswant Pendem",
+  username: "Jaswant Pedem",
   title: "Hi all, I'm Jazz",
   subTitle: emoji(
     "Electrical, Electronic Engineering & Data Science Student (3rd Year) | Research Assistant at Intelligent Sensing & Perception Laboratory | The Duke of Edinburgh's International Award Alumni | New Colombo Plan Alumni"
