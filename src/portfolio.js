@@ -163,19 +163,19 @@ const techStack = {
     {
       Stack: "JavaScript",
       progressPercentage: "20%"
-    }
+    },
     {
       Stack: "Power BI",
       progressPercentage: "60%"
-    }
+    },
     {
       Stack: "Dataiku",
       progressPercentage: "90%"
-    }
+    },
     {
       Stack: "Adobe Premiere Pro",
       progressPercentage: "60%"
-    }
+    },
     {
       Stack: "AutoCAD",
       progressPercentage: "40%"
