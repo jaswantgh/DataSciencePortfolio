@@ -23,7 +23,7 @@ const greeting = {
   username: "Jaswant Pendem",
   title: "Hi all, I'm Jazz",
   subTitle: emoji(
-    "Electrical, Electronic Engineering & Data Science Student (3rd Year) | Student Ambassador | Research Assistant at Intelligent Sensing & Perception Laboratory"
+    "Electrical, Electronic Engineering & Data Science Student (3rd Year) | Research Assistant at Intelligent Sensing & Perception Laboratory | The Duke of Edinburgh's International Award Alumni | New Colombo Plan Alumni"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -174,8 +174,8 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
+      role: "Engineer Intern",
+      company: "CalcTree",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "June 2018 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -185,7 +185,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Front-End Developer",
+      role: "Front-End Develo",
       company: "Quora",
       companylogo: require("./assets/images/quoraLogo.png"),
       date: "May 2017 – May 2018",
