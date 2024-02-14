@@ -127,7 +127,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Curtin University",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/curtinLogo.jpg"),
       subHeader: "Bachelors of Engineering in Electrical and Electronic Engineering Honours",
       duration: "February 2022 - Present",
       desc: "Participated in the research of XXX and published 3 papers.",
@@ -138,7 +138,7 @@ const educationInfo = {
     },
     {
       schoolName: "Curtin University",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/curtinLogo.jpg"),
       subHeader: "Bachelor of Science in Data Science",
       duration: "February 2022 - Present",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
@@ -153,7 +153,7 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
+      Stack: "Programming", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
@@ -241,8 +241,8 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Facial Detection",
+      projectDesc: "Data Structures and Algorithms",
       footerLink: [
         {
           name: "Visit Website",
