@@ -23,7 +23,7 @@ const greeting = {
   username: "Jaswant Pendem",
   title: "Hi all, I'm Jazz",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "Electrical, Electronic Engineering & Data Science Student (3rd Year) | Student Ambassador | Research Assistant at Intelligent Sensing & Perception Laboratory"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -38,8 +38,8 @@ const socialMediaLinks = {
   gmail: "jaswant.pendem@gmail.com",
   gitlab: "https://gitlab.com/jaswantgh",
   facebook: "https://m.facebook.com/fifa.destroyar/",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  medium: "https://jaswantgh.medium.com/",
+  stackoverflow: "https://stackoverflow.com/users/23401802/jaswantgh",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -48,7 +48,7 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
+  title: "What I do!",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
