@@ -157,12 +157,28 @@ const techStack = {
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
-      progressPercentage: "70%"
+      Stack: "Python",
+      progressPercentage: "40%"
     },
     {
-      Stack: "Programming",
+      Stack: "JavaScript",
+      progressPercentage: "20%"
+    }
+    {
+      Stack: "Power BI",
       progressPercentage: "60%"
+    }
+    {
+      Stack: "Dataiku",
+      progressPercentage: "90%"
+    }
+    {
+      Stack: "Adobe Premiere Pro",
+      progressPercentage: "60%"
+    }
+    {
+      Stack: "AutoCAD",
+      progressPercentage: "40%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
