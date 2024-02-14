@@ -127,8 +127,8 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Curtin University",
-      logo: require("./assets/images/curtinLogo.jpg"),
-      subHeader: "Bachelors of Engineering in Electrical and Electronic Engineering Honours",
+      logo: require("./assets/images/curtinLogo2.jpg"),
+      subHeader: "Bachelors of Engineering in Electrical and Electronic Engineering (Honours)",
       duration: "February 2022 - Present",
       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
@@ -138,7 +138,7 @@ const educationInfo = {
     },
     {
       schoolName: "Curtin University",
-      logo: require("./assets/images/curtinLogo.jpg"),
+      logo: require("./assets/images/curtinLogo1.jpg"),
       subHeader: "Bachelor of Science in Data Science",
       duration: "February 2022 - Present",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
