@@ -141,8 +141,8 @@ const educationInfo = {
       logo: require("./assets/images/curtinLogo1.jpg"),
       subHeader: "Bachelor of Science in Data Science",
       duration: "February 2022 - Present",
-      desc: "Units: Unix & C Programming, Data Structures & Algorithms, Introduction to Probability & Data Analysis, Regression & Nonparametric Inference",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      desc: "Student Ambassador",
+      descBullets: ["Units: Unix & C Programming, Data Structures & Algorithms, Introduction to Probability & Data Analysis, Regression & Nonparametric Inference"]
     }
   ]
 };
@@ -355,7 +355,7 @@ const achievementSection = {
     {
       title: "Duke of Edinburgh’s International Awards: Gold, Silver, Bronze Level",
       subtitle: "Completed Award at Hale School and awarded in Assembly ",
-      image: require("./assets/images/duek1.png"),
+      image: require("./assets/images/duke1.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Gold Certification", url: ""},
