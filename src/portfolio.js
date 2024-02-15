@@ -210,7 +210,7 @@ const workExperiences = {
     {
       role: "Digital Marketing and Communications Intern",
       company: "UniSport Australia",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/unisportLogo.png"),
       date: "Sep 2022 – Oct 2022",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
