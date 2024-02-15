@@ -336,7 +336,7 @@ const achievementSection = {
         {
           name: "Bronze Certification",
           url: ""
-        }
+        },
         {
           name: "Award Night Photos",
           url: ""
