@@ -154,10 +154,10 @@ const techStack = {
   experience: [
     {
       Stack: "Programming", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      progressPercentage: "50%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Python",
+      Stack: "",
       progressPercentage: "40%"
     },
     {
@@ -210,7 +210,7 @@ const workExperiences = {
     {
       role: "Digital Marketing and Communications Intern",
       company: "UniSport Australia",
-      companylogo: require("./assets/images/unisportLogo.png"),
+      companylogo: require("./assets/images/unisportLogo1.png"),
       date: "Sep 2022 – Oct 2022",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
@@ -237,28 +237,58 @@ const openSource = {
 
 const bigProjects = {
   title: "Portfolio",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "I’ve had the privilege of working on a variety of projects, each providing unique challenges and learning opportunities. Included here are code samples that I believe reflect my understanding and application of key programming concepts. I am not only open but enthusiastic about expanding my technical repertoire with new languages and frameworks as required. I am confident that this adaptability and eagerness to learn are assets that will bring value to any team.",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Facial Detection",
-      projectDesc: "Data Structures and Algorithms",
+      projectName: "2023: COMP1002 Data Structures and Algorithms",
+      projectDesc: "I wrote the following assignment for my computer programming unit. My final mark for this subject was 89%. I have attached below my assignment submissions. Note Python was used for this assignment.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Assignment 1 for COMP1000: Box Terminal Maze Part 1",
+          url: "https://github.com/jaswantgh/UnixCProgramming--Project-1"
+        },
+        {
+          name: "Assignment 1 for COMP1000: Box Terminal Maze Part 2",
+          url: "https://github.com/jaswantgh/UnixCProgramming--Project-2"
+        },
+        {
+          name: "Assignment 3 for COMP1000: Wireworld Cellular Automation",
+          url: "https://github.com/jaswantgh/Wireworld"
         }
         //  you can add extra buttons here.
       ]
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "2023: COMP1000 Unix & C Programming ",
+      projectDesc: "I wrote the following three assignments for my computer programming unit. My final mark for this subject was 99%. I have attached below my three assignment submissions. Note C89 was used for this assignment. ",
       footerLink: [
         {
           name: "Visit Website",
           url: "http://nextu.se/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/nextuLogo.webp"),
+      projectName: "2022: Personal Portfolio 1",
+      projectDesc: "During the first semester, I took the initiative to learn Javascript, HTML, and CSS. I noticed that many individuals had personal portfolios, so I decided to apply my newly acquired skills to design one for myself. ",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://jaswantgh.github.io/jaswant/index.html/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/nextuLogo.webp"),
+      projectName: "2022: COMP1005 Fundamentals Of Programming",
+      projectDesc: "I wrote the following assignment for my computer programming unit. My final mark for this subject was 82%. I have attached below my assignment submissions. Note Python was used for this assignment. ",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://github.com/jaswantgh/MazeSimulation/"
         }
       ]
     }
@@ -388,7 +418,7 @@ const talkSection = {
 
 const podcastSection = {
   title: emoji("Podcast 🎙️"),
-  subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
+  subtitle: "My personal gym routine",
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
@@ -398,9 +428,9 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me 📧"),
+  title: emoji("Get in Touch📧"),
   subtitle:
-    "Got an idea or just want to connect? Shoot me an email or find me on LinkedIn! I’m all for making new connections and exploring fresh opportunities. Let’s get networking! 😊",
+    "Got an idea or just want to connect? Send me an email or DM me on LinkedIn! 😊",
   email_address: "jaswant.pendem@gmail.com"
 };
 
