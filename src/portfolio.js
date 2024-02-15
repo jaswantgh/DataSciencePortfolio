@@ -240,7 +240,7 @@ const bigProjects = {
   subtitle: "I’ve had the privilege of working on a variety of projects, each providing unique challenges and learning opportunities. Included here are code samples that I believe reflect my understanding and application of key programming concepts. I am not only open but enthusiastic about expanding my technical repertoire with new languages and frameworks as required. I am confident that this adaptability and eagerness to learn are assets that will bring value to any team.",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/automate.png"),
       projectName: "2023: COMP1002 Data Structures and Algorithms",
       projectDesc: "I wrote the following assignment for my computer programming unit. My final mark for this subject was 89%. I have attached below my assignment submissions. Note Python was used for this assignment.",
       footerLink: [
