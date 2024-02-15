@@ -276,7 +276,7 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "SLB Data Science Hackathon Finalists",
       subtitle:
         "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
       image: require("./assets/images/codeInLogo.webp"),
@@ -287,12 +287,8 @@ const achievementSection = {
           url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
         },
         {
-          name: "Award Letter",
+          name: "Award Night Photos",
           url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         }
       ]
     },
@@ -304,7 +300,23 @@ const achievementSection = {
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
+          name: "Core Designer Certificate",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        },
+        {
+          name: "ML Practitioner Certificate",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        },
+        {
+          name: "Advanced Designer Certificate",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        },
+        {
+          name: "Developer Certificate",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        },
+        {
+          name: "MLOps Practitioner Certificate",
           url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
         }
       ]
@@ -319,7 +331,15 @@ const achievementSection = {
         {name: "Gold Certification", url: ""},
         {
           name: "Silver Certification",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          url: ""
+        },
+        {
+          name: "Bronze Certification",
+          url: ""
+        }
+        {
+          name: "Award Night Photos",
+          url: ""
         }
       ]
     }
