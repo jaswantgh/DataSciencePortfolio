@@ -252,7 +252,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/terminal.png"),
       projectName: "2023: COMP1000 Unix & C Programming ",
       projectDesc: "I wrote the following three assignments for my computer programming unit. My final mark for this subject was 99%. I have attached below my three assignment submissions. Note C89 was used for this assignment. ",
       footerLink: [
@@ -271,7 +271,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/prototype.png"),
       projectName: "2022: Personal Portfolio 1",
       projectDesc: "During the first semester, I took the initiative to learn Javascript, HTML, and CSS. I noticed that many individuals had personal portfolios, so I decided to apply my newly acquired skills to design one for myself. ",
       footerLink: [
@@ -282,7 +282,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/goose.png"),
       projectName: "2022: COMP1005 Fundamentals Of Programming",
       projectDesc: "I wrote the following assignment for my computer programming unit. My final mark for this subject was 82%. I have attached below my assignment submissions. Note Python was used for this assignment. ",
       footerLink: [
