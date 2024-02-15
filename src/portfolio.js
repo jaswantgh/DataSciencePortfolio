@@ -217,7 +217,7 @@ const workExperiences = {
     {
       role: "GoGlobal Civil Engineer Intern",
       company: "Challenges Abroad",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/caLogo.jpg"),
       date: "Jun 2022 – Jul 2022",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
