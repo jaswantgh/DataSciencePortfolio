@@ -192,7 +192,7 @@ const workExperiences = {
     {
       role: "Engineering Intern",
       company: "CalcTree",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/calctreeLogo.jpeg"),
       date: "Nov 2023 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
