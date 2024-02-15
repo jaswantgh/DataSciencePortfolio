@@ -192,7 +192,7 @@ const workExperiences = {
     {
       role: "Engineering Intern",
       company: "CalcTree",
-      companylogo: require("./assets/images/calctreeLogo.jpeg"),
+      companylogo: require("./assets/images/facebookLogo.png"),
       date: "Nov 2023 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
@@ -203,21 +203,21 @@ const workExperiences = {
     {
       role: "Electrical Engineering Research Intern",
       company: "Intelligent Sensing & Perception Laboratory",
-      companylogo: require("./assets/images/isplLogo.svg"),
+      companylogo: require("./assets/images/facebookLogo.png"),
       date: "Aug 2023 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       role: "Digital Marketing and Communications Intern",
       company: "UniSport Australia",
-      companylogo: require("./assets/images/unisportLogo.png"),
+      companylogo: require("./assets/images/facebookLogo.png"),
       date: "Sep 2022 – Oct 2022",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       role: "GoGlobal Civil Engineer Intern",
       company: "Challenges Abroad",
-      companylogo: require("./assets/images/caLogo.jpg"),
+      companylogo: require("./assets/images/facebookLogo.png"),
       date: "Jun 2022 – Jul 2022",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
