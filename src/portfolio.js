@@ -130,9 +130,9 @@ const educationInfo = {
       logo: require("./assets/images/curtinLogo2.jpg"),
       subHeader: "Bachelors of Engineering in Electrical and Electronic Engineering (Honours)",
       duration: "February 2022 - Present",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "Head of Marketing for Institute of Electrical and Electronics Engineers Club ",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Units: Electrical Circuits, Singals & Systems, Electronic Fundamentals ",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     },
@@ -141,7 +141,7 @@ const educationInfo = {
       logo: require("./assets/images/curtinLogo1.jpg"),
       subHeader: "Bachelor of Science in Data Science",
       duration: "February 2022 - Present",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      desc: "Units: Unix & C Programming, Data Structures & Algorithms, Introduction to Probability & Data Analysis, Regression & Nonparametric Inference",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
@@ -245,16 +245,8 @@ const bigProjects = {
       projectDesc: "I wrote the following assignment for my computer programming unit. My final mark for this subject was 89%. I have attached below my assignment submissions. Note Python was used for this assignment.",
       footerLink: [
         {
-          name: "Assignment 1 for COMP1000: Box Terminal Maze Part 1",
-          url: "https://github.com/jaswantgh/UnixCProgramming--Project-1"
-        },
-        {
-          name: "Assignment 1 for COMP1000: Box Terminal Maze Part 2",
-          url: "https://github.com/jaswantgh/UnixCProgramming--Project-2"
-        },
-        {
-          name: "Assignment 3 for COMP1000: Wireworld Cellular Automation",
-          url: "https://github.com/jaswantgh/Wireworld"
+          name: "Assignment 1 for COMP1002: Bushfire Monitoring System",
+          url: "https://github.com/jaswantgh/DataStructuresAndAlgorithms"
         }
         //  you can add extra buttons here.
       ]
@@ -265,8 +257,16 @@ const bigProjects = {
       projectDesc: "I wrote the following three assignments for my computer programming unit. My final mark for this subject was 99%. I have attached below my three assignment submissions. Note C89 was used for this assignment. ",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Assignment 1 for COMP1000: Box Terminal Maze Part 1",
+          url: "https://github.com/jaswantgh/UnixCProgramming--Project-1"
+        },
+        {
+          name: "Assignment 1 for COMP1000: Box Terminal Maze Part 2",
+          url: "https://github.com/jaswantgh/UnixCProgramming--Project-2"
+        },
+        {
+          name: "Assignment 3 for COMP1000: Wireworld Cellular Automation",
+          url: "https://github.com/jaswantgh/Wireworld"
         }
       ]
     },
