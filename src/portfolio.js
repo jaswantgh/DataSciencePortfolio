@@ -245,7 +245,7 @@ const bigProjects = {
       projectDesc: "I wrote the following assignment for my computer programming unit. My final mark for this subject was 89%. I have attached below my assignment submissions. Note Python was used for this assignment.",
       footerLink: [
         {
-          name: "Assignment 1 for COMP1002: Bushfire Monitoring System",
+          name: "Assignment 1 : Bushfire Monitoring System",
           url: "https://github.com/jaswantgh/DataStructuresAndAlgorithms"
         }
         //  you can add extra buttons here.
@@ -257,15 +257,15 @@ const bigProjects = {
       projectDesc: "I wrote the following three assignments for my computer programming unit. My final mark for this subject was 99%. I have attached below my three assignment submissions. Note C89 was used for this assignment. ",
       footerLink: [
         {
-          name: "Assignment 1 for COMP1000: Box Terminal Maze Part 1",
+          name: "Assignment 1 : Box Terminal Maze Part 1",
           url: "https://github.com/jaswantgh/UnixCProgramming--Project-1"
         },
         {
-          name: "Assignment 1 for COMP1000: Box Terminal Maze Part 2",
+          name: "Assignment 2 : Box Terminal Maze Part 2",
           url: "https://github.com/jaswantgh/UnixCProgramming--Project-2"
         },
         {
-          name: "Assignment 3 for COMP1000: Wireworld Cellular Automation",
+          name: "Assignment 3 : Wireworld Cellular Automation",
           url: "https://github.com/jaswantgh/Wireworld"
         }
       ]
@@ -287,7 +287,7 @@ const bigProjects = {
       projectDesc: "I wrote the following assignment for my computer programming unit. My final mark for this subject was 82%. I have attached below my assignment submissions. Note Python was used for this assignment. ",
       footerLink: [
         {
-          name: "Visit Website",
+          name: "Assignment 1: Platformer Maze",
           url: "https://github.com/jaswantgh/MazeSimulation/"
         }
       ]
@@ -309,7 +309,7 @@ const achievementSection = {
       title: "SLB Data Science Hackathon Finalists",
       subtitle:
         "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/slb.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
@@ -326,7 +326,7 @@ const achievementSection = {
       title: "Dataiku",
       subtitle:
         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: require("./assets/images/dataiku.png"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
@@ -355,7 +355,7 @@ const achievementSection = {
     {
       title: "Duke of Edinburgh’s International Awards: Gold, Silver, Bronze Level",
       subtitle: "Completed Award at Hale School and awarded in Assembly ",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/duek1.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Gold Certification", url: ""},
