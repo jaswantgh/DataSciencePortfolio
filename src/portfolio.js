@@ -85,40 +85,44 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "sql-database",
+      skillName: "SQL",
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "aws",
+      skillName: "AWS",
       fontAwesomeClassname: "fab fa-aws"
     },
     {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
       skillName: "C",
-      fontAwesomeClassname: "fab fa-python"
+      fontAwesomeClassname: "fas fa-copyright"
     },
     {
-      skillName: "autocad",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: "AutoCAD",
+      fontAwesomeClassname: "fas fa-calculator"
     },
     {
       skillName: "Julia",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "adobe premiere pro",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: "Adobe Premiere Pro",
+      fontAwesomeClassname: "fas fa-video"
     },
     {
-      skillName: "matlab",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: "Matlab",
+      fontAwesomeClassname: "fas fa-cogs"
     },
     {
       skillName: "R",
-      fontAwesomeClassname: "fab fa-python"
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "GitHub Actions",
+      fontAwesomeClassname: "fab fa-github"
     }
   ],
   display: true // Set false to hide this section, defaults to true
