@@ -73,10 +73,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
@@ -89,14 +85,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
@@ -106,6 +94,30 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "python",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "C",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "autocad",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "Julia",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "adobe premiere pro",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "matlab",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "R",
       fontAwesomeClassname: "fab fa-python"
     }
   ],
