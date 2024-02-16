@@ -132,8 +132,8 @@ const educationInfo = {
       duration: "February 2022 - Present",
       desc: "Head of Marketing for Institute of Electrical and Electronics Engineers Club ",
       descBullets: [
-        "Units: Electrical Circuits, Singals & Systems, Electronic Fundamentals ",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Units: Electrical Circuits, Singals & Systems, Electronic Fundamentals "
+        
       ]
     },
     {
@@ -153,33 +153,22 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Programming", //Insert stack or technology you have experience in
-      progressPercentage: "50%" //Insert relative proficiency in percentage
+      Stack: "Sales", //Insert stack or technology you have experience in
+      progressPercentage: "20%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "",
-      progressPercentage: "40%"
+      Stack: "Digital Marketing",
+      progressPercentage: "80%"
     },
     {
-      Stack: "JavaScript",
-      progressPercentage: "20%"
+      Stack: "Teamwork",
+      progressPercentage: "70%"
     },
     {
-      Stack: "Power BI",
-      progressPercentage: "60%"
-    },
-    {
-      Stack: "Dataiku",
-      progressPercentage: "90%"
-    },
-    {
-      Stack: "Adobe Premiere Pro",
-      progressPercentage: "60%"
-    },
-    {
-      Stack: "AutoCAD",
-      progressPercentage: "40%"
+      Stack: "Research",
+      progressPercentage: "4-%"
     }
+
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
