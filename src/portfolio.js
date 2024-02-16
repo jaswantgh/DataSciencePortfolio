@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do!",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "Technical Skills",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -105,16 +105,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -297,55 +289,55 @@ const achievementSection = {
     {
       title: "SLB Data Science Hackathon Finalists",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "Presented solution at WA Mining Conference Expo 2023",
       image: require("./assets/images/slb.png"),
-      imageAlt: "Google Code-In Logo",
+      imageAlt: "SchlumbergerLogo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: ""
         },
         {
-          name: "Award Night Photos",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+          name: "Photos",
+          url: "https://drive.google.com/drive/folders/118_UbaS6L6Ab3Gdr2gKCi-uXYvXYOTX-?usp=sharing"
         }
       ]
     },
     {
       title: "Dataiku",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+        " Gained valuable insights into data science workflows and improved my skills in data manipulation and analysis.",
       image: require("./assets/images/dataiku.png"),
-      imageAlt: "Google Assistant Action Logo",
+      imageAlt: "Dataiku Logo",
       footerLink: [
         {
           name: "Core Designer Certificate",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://drive.google.com/file/d/18T1g-qVBSFer3iAyzfMMzqCJsux0_B77/view?usp=sharing"
         },
         {
           name: "ML Practitioner Certificate",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://drive.google.com/file/d/1Cb5bkCXWHMlmyuwHLCg4IKnpsjzpbBdf/view?usp=sharing"
         },
         {
           name: "Advanced Designer Certificate",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://drive.google.com/file/d/1H87yZnz9427f4POK9vRAN3Ritv3V0eGX/view?usp=sharing"
         },
         {
           name: "Developer Certificate",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://drive.google.com/file/d/1N51oKJOucD10Hb6Plx2fGCKTvy_Bbgdo/view?usp=sharing"
         },
         {
           name: "MLOps Practitioner Certificate",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://drive.google.com/file/d/1xs8a3odk4CxhamULYRD6r7JnU2zWpg8b/view?usp=sharing"
         }
       ]
     },
 
     {
       title: "Duke of Edinburgh’s International Awards: Gold, Silver, Bronze Level",
-      subtitle: "Completed Award at Hale School and awarded in Assembly ",
+      subtitle: "During my time at Hale school, I invested over 300 hours to complete the award. This journey, recognized in an assembly, fortified my commitment, resilience, and adaptability. ",
       image: require("./assets/images/duke1.png"),
-      imageAlt: "PWA Logo",
+      imageAlt: "Duke Of Edinburgh Logo",
       footerLink: [
         {name: "Gold Certification", url: ""},
         {
@@ -357,8 +349,8 @@ const achievementSection = {
           url: ""
         },
         {
-          name: "Award Night Photos",
-          url: ""
+          name: "Photos",
+          url: "https://drive.google.com/drive/folders/1xoyp-wWkjLC1lOC70zzvh8zIODT67PGn?usp=sharing"
         }
       ]
     }
