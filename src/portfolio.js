@@ -138,7 +138,7 @@ const educationInfo = {
       logo: require("./assets/images/curtinLogo2.jpg"),
       subHeader: "Bachelors of Engineering in Electrical and Electronic Engineering (Honours)",
       duration: "February 2022 - Present",
-      desc: "Head of Marketing for Institute of Electrical and Electronics Engineers Club ",
+      desc: "Graduation in 2026",
       descBullets: [
         "Units: Electrical Circuits, Singals & Systems, Electronic Fundamentals "
         
@@ -149,7 +149,7 @@ const educationInfo = {
       logo: require("./assets/images/curtinLogo1.jpg"),
       subHeader: "Bachelor of Science in Data Science",
       duration: "February 2022 - Present",
-      desc: "Student Ambassador",
+      desc: "Graduation in 2026",
       descBullets: ["Units: Unix & C Programming, Data Structures & Algorithms, Introduction to Probability & Data Analysis, Regression & Nonparametric Inference"]
     }
   ]
@@ -174,7 +174,7 @@ const techStack = {
     },
     {
       Stack: "Research",
-      progressPercentage: "4-%"
+      progressPercentage: "40%"
     }
 
   ],
@@ -190,7 +190,7 @@ const workExperiences = {
       role: "Engineering Intern",
       company: "CalcTree",
       companylogo: require("./assets/images/calctreeLogo.jpeg"),
-      date: "Nov 2023 – Present",
+      date: "Nov 2023 – Mar 2024",
       desc: "Lorem ipsumolore magna aliqua.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -257,6 +257,13 @@ const workExperiences = {
       role: "Secretary",
       company: "Kiwanis Australia",
       companylogo: require("./assets/images/kiwnais.png"),
+      date: "Feb 2023 – Present",
+      desc: "Lorem olore magna aliqua.",
+    },
+    {
+      role: " Computer Science Mentor",
+      company: "AASQA CoderDojo",
+      companylogo: require("./assets/images/coderdojo.png"),
       date: "Feb 2023 – Present",
       desc: "Lorem olore magna aliqua.",
     }
