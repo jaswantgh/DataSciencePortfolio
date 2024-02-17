@@ -150,6 +150,7 @@ const educationInfo = {
       logo: require("./assets/images/curtinLogo1.jpg"),
       subHeader: "Bachelor of Science in Data Science",
       duration: "February 2022 - Present",
+
       desc: "Key Units Completed",
       descBullets: ["Units: Unix & C Programming, Data Structures & Algorithms, Introduction to Probability & Data Analysis, Regression & Nonparametric Inference"]
     }
@@ -252,7 +253,11 @@ const workExperiences = {
       company: "Curtin University",
       companylogo: require("./assets/images/curtinLogo2.jpg"),
       date: "Jun 2023 – Present",
-      desc: "Lorem olore magna aliqua.",
+      desc: "Awarded with Tier 2 Curtin Extra Recognition.",
+      descBullets: [
+        "Demonstrated adaptability in challenging situations, controlling audience attention and leading groups effectively, while continually improving public speaking skills and networking capabilities.",
+        "Successfully managed diverse tasks and environments, utilizing non-verbal communication and problem-solving skills, while gaining insights into self-awareness, decision-making, teamwork, and professional development."
+      ],
     },
     {
       role: "Secretary",
@@ -464,8 +469,8 @@ const talkSection = {
 // Podcast Section
 
 const podcastSection = {
-  title: emoji("Podcast 🎙️"),
-  subtitle: "My personal gym routine",
+  title: emoji("Podcast Worth Listening 🎙️"),
+  subtitle: "Podcasts Worth Listening To",
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
