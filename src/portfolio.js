@@ -250,7 +250,7 @@ const workExperiences = {
       company: "Curtin University",
       companylogo: require("./assets/images/curtinLogo2.jpg"),
       date: "Jun 2023 – Present",
-      desc: "Awarded with Tier 2 Curtin Extra Recognition.",
+      desc: "Awarded with Tier 2 Curtin Extra - Professional Development Stream Recognition.",
       descBullets: [
         "Demonstrated adaptability in challenging situations, controlling audience attention and leading groups effectively, while continually improving public speaking skills and networking capabilities.",
         "Successfully managed diverse tasks and environments, utilizing non-verbal communication and problem-solving skills, while gaining insights into self-awareness, decision-making, teamwork, and professional development."
