@@ -194,17 +194,14 @@ const workExperiences = {
       companylogo: require("./assets/images/calctreeLogo.jpeg"),
       date: "Nov 2023 – Mar 2024",
       desc: "Lorem ipsumolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ],
       footerLink: [
         {
           name: "Letter of Acceptance",
           url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
         }
         //  you can add extra buttons here.
-      ]
+      ],
+      
     },
     {
       role: "Electrical Engineering Research Intern",
