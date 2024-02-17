@@ -23,7 +23,7 @@ const greeting = {
   username: "Jaswant Pendem",
   title: "Hi all, I'm Jazz",
   subTitle: emoji(
-    "Third Year Electrical, Electronic Engineering & Data Science Student "
+    " Undergraduate Third Year Electrical, Electronic Engineering & Data Science Student "
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -48,16 +48,14 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do!",
-  subTitle: "Technical Skills",
+  title: "About Me!",
   skills: [
+
+    emoji("⚡ Explorer: My professional journey has granted me valuable exposure to the sports industry, enriching my diverse skill set. As a perpetual learner, I’m intrigued by the potential of artificial intelligence, healthcare, and cloud computing. I’m ready to use my ability to adapt and my curiosity to explore these areas. I can’t wait to find new challenges and opportunities."),
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Cultural Ambassador: Having lived in three different continents, I bring a global perspective and a deep appreciation for diversity. This enables me to navigate and thrive in multicultural environments, fostering inclusive and productive teams."
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+    subTitle: "Technical Skills"
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -138,7 +136,8 @@ const educationInfo = {
       logo: require("./assets/images/curtinLogo2.jpg"),
       subHeader: "Bachelors of Engineering in Electrical and Electronic Engineering (Honours)",
       duration: "February 2022 - Present",
-      desc: "Graduation in 2026",
+      desc: "Expected Graduation: 2026",
+      desc: "Key Units Completed",
       descBullets: [
         "Units: Electrical Circuits, Singals & Systems, Electronic Fundamentals "
         
@@ -149,7 +148,8 @@ const educationInfo = {
       logo: require("./assets/images/curtinLogo1.jpg"),
       subHeader: "Bachelor of Science in Data Science",
       duration: "February 2022 - Present",
-      desc: "Graduation in 2026",
+      desc: "Expected Graduation: 2026",
+      desc: "Key Units Completed",
       descBullets: ["Units: Unix & C Programming, Data Structures & Algorithms, Introduction to Probability & Data Analysis, Regression & Nonparametric Inference"]
     }
   ]
