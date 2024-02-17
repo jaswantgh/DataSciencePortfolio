@@ -195,7 +195,7 @@ const workExperiences = {
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      ],
       footerLink: [
         {
           name: "Letter of Acceptance",
