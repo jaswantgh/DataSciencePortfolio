@@ -200,7 +200,7 @@ const workExperiences = {
     {
       role: "Electrical Engineering Research Intern",
       company: "Intelligent Sensing & Perception Laboratory",
-      companylogo: require("./assets/images/isplLogo.svg"),
+      companylogo: require("./assets/images/isplLogo1.png"),
       date: "Aug 2023 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
