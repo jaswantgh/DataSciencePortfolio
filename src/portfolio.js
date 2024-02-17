@@ -238,6 +238,21 @@ const workExperiences = {
         }
         //  you can add extra buttons here.
       ]
+    },
+    {
+      role: "Head of Marketing",
+      company: "Institute of Electrical and Electronics Engineers Curtin",
+      companylogo: require("./assets/images/ieee.png"),
+      date: "Nov 2023 – Present",
+      desc: "Lorem olore magna aliqua.",
+    }
+    ,
+    {
+      role: "Student Ambassador",
+      company: "Curtin University",
+      companylogo: require("./assets/images/curtinLogo2.jpg"),
+      date: "Jun 2023 – Present",
+      desc: "Lorem olore magna aliqua.",
     }
     
   ]
@@ -416,7 +431,7 @@ const blogSection = {
 // Talks Sections
 
 const talkSection = {
-  title: "TALKS",
+  title: "Other Work",
   subtitle: emoji(
     "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
   ),
@@ -451,72 +466,6 @@ const contactInfo = {
     "Got an idea or just want to connect? Send me an email or DM me on LinkedIn! 😊",
   email_address: "jaswant.pendem@gmail.com"
 };
-
-
-
-const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
-  experience: [
-    {
-      role: "Engineering Intern",
-      company: "CalcTree",
-      companylogo: require("./assets/images/calctreeLogo.jpeg"),
-      date: "Nov 2023 – Present",
-      desc: "Lorem ipsumolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ],
-      footerLink: [
-        {
-          name: "Letter of Acceptance",
-          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
-      role: "Electrical Engineering Research Intern",
-      company: "Intelligent Sensing & Perception Laboratory",
-      companylogo: require("./assets/images/isplTest.png"),
-      date: "Aug 2023 – Present",
-      desc: "Lorem ipsum dolL."
-      
-    },
-    {
-      role: "Digital Marketing and Communications Intern",
-      company: "UniSport Australia",
-      companylogo: require("./assets/images/unisportLogo1.png"),
-      date: "Sep 2022 – Oct 2022",
-      desc: "Lorem  aliqua.",
-      footerLink: [
-        {
-          name: "Letter of Acceptance",
-          url: "https://drive.google.com/file/d/1vQHJVAsi3E0LAqCW0S11vRphUexspkgV/view?usp=sharing"
-        }
-      ]
-    },
-    {
-      role: "New Colombo Plan Engineer Intern",
-      company: "Challenges Abroad",
-      companylogo: require("./assets/images/caLogo.jpg"),
-      date: "Jun 2022 – Jul 2022",
-      desc: "Lorem olore magna aliqua.",
-      footerLink: [
-        {
-          name: "Letter of Acceptance",
-          url: "https://drive.google.com/file/d/1nFUzp5l79ErpFjSZXHtiLAyK3Ji3vNgj/view?usp=sharing"
-        }
-        //  you can add extra buttons here.
-      ]
-    }
-    
-  ]
-};
-
-
-
-
 
 
 // Twitter Section
