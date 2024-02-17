@@ -196,27 +196,49 @@ const workExperiences = {
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
+      footerLink: [
+        {
+          name: "Letter of Acceptance",
+          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+        }
+        //  you can add extra buttons here.
+      ]
     },
     {
       role: "Electrical Engineering Research Intern",
       company: "Intelligent Sensing & Perception Laboratory",
-      companylogo: require("./assets/images/isplLogo1.png"),
+      companylogo: require("./assets/images/isplTest.png"),
       date: "Aug 2023 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. L."
+      
     },
     {
       role: "Digital Marketing and Communications Intern",
       company: "UniSport Australia",
       companylogo: require("./assets/images/unisportLogo1.png"),
       date: "Sep 2022 – Oct 2022",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscingcididunt ut labore et dolore magna aliqua."
+      footerLink: [
+        {
+          name: "Letter of Acceptance",
+          url: "https://drive.google.com/file/d/1vQHJVAsi3E0LAqCW0S11vRphUexspkgV/view?usp=sharing"
+        }
+        //  you can add extra buttons here.
+      ]
     },
     {
-      role: "GoGlobal Civil Engineer Intern",
+      role: "New Colombo Plan Engineer Intern",
       company: "Challenges Abroad",
       companylogo: require("./assets/images/caLogo.jpg"),
       date: "Jun 2022 – Jul 2022",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Lorem ipsum orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      footerLink: [
+        {
+          name: "Letter of Acceptance",
+          url: "https://drive.google.com/file/d/1nFUzp5l79ErpFjSZXHtiLAyK3Ji3vNgj/view?usp=sharing"
+        }
+        //  you can add extra buttons here.
+      ]
     }
     
   ]
