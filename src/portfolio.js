@@ -245,13 +245,19 @@ const workExperiences = {
       companylogo: require("./assets/images/ieee.png"),
       date: "Nov 2023 – Present",
       desc: "Lorem olore magna aliqua.",
-    }
-    ,
+    },
     {
       role: "Student Ambassador",
       company: "Curtin University",
       companylogo: require("./assets/images/curtinLogo2.jpg"),
       date: "Jun 2023 – Present",
+      desc: "Lorem olore magna aliqua.",
+    },
+    {
+      role: "Secretary",
+      company: "Kiwanis Australia",
+      companylogo: require("./assets/images/kiwnais.png"),
+      date: "Feb 2023 – Present",
       desc: "Lorem olore magna aliqua.",
     }
     
