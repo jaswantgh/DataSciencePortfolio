@@ -191,7 +191,7 @@ const workExperiences = {
       company: "CalcTree",
       companylogo: require("./assets/images/calctreeLogo.jpeg"),
       date: "Nov 2023 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Lorem ipsumolore magna aliqua.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -209,7 +209,7 @@ const workExperiences = {
       company: "Intelligent Sensing & Perception Laboratory",
       companylogo: require("./assets/images/isplTest.png"),
       date: "Aug 2023 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. L."
+      desc: "Lorem ipsum dolL."
       
     },
     {
@@ -217,13 +217,12 @@ const workExperiences = {
       company: "UniSport Australia",
       companylogo: require("./assets/images/unisportLogo1.png"),
       date: "Sep 2022 – Oct 2022",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscingcididunt ut labore et dolore magna aliqua."
+      desc: "Lorem  aliqua.",
       footerLink: [
         {
           name: "Letter of Acceptance",
           url: "https://drive.google.com/file/d/1vQHJVAsi3E0LAqCW0S11vRphUexspkgV/view?usp=sharing"
         }
-        //  you can add extra buttons here.
       ]
     },
     {
@@ -231,7 +230,7 @@ const workExperiences = {
       company: "Challenges Abroad",
       companylogo: require("./assets/images/caLogo.jpg"),
       date: "Jun 2022 – Jul 2022",
-      desc: "Lorem ipsum orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Lorem olore magna aliqua.",
       footerLink: [
         {
           name: "Letter of Acceptance",
