@@ -50,13 +50,12 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "About Me!",
   skills: [
-
     emoji("⚡ Explorer: My professional journey has granted me valuable exposure to the sports industry, enriching my diverse skill set. As a perpetual learner, I’m intrigued by the potential of artificial intelligence, healthcare, and cloud computing. I’m ready to use my ability to adapt and my curiosity to explore these areas. I can’t wait to find new challenges and opportunities."),
     emoji(
       "⚡ Cultural Ambassador: Having lived in three different continents, I bring a global perspective and a deep appreciation for diversity. This enables me to navigate and thrive in multicultural environments, fostering inclusive and productive teams."
-    ),
-  subTitle: "Technical Skills"
+    )
   ],
+  subTitle: "Technical Skills",
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
