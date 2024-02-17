@@ -139,7 +139,6 @@ const educationInfo = {
       logo: require("./assets/images/curtinLogo2.jpg"),
       subHeader: "Bachelors of Engineering in Electrical and Electronic Engineering (Honours)",
       duration: "February 2022 - Present",
-      desc: "Expected Graduation: 2026",
       desc: "Key Units Completed",
       descBullets: [
         "Units: Electrical Circuits, Singals & Systems, Electronic Fundamentals "
@@ -151,7 +150,6 @@ const educationInfo = {
       logo: require("./assets/images/curtinLogo1.jpg"),
       subHeader: "Bachelor of Science in Data Science",
       duration: "February 2022 - Present",
-      desc: "Expected Graduation: 2026",
       desc: "Key Units Completed",
       descBullets: ["Units: Unix & C Programming, Data Structures & Algorithms, Introduction to Probability & Data Analysis, Regression & Nonparametric Inference"]
     }
