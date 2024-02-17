@@ -23,7 +23,7 @@ const greeting = {
   username: "Jaswant Pendem",
   title: "Hi all, I'm Jazz",
   subTitle: emoji(
-    "Electrical, Electronic Engineering & Data Science Student (3rd Year) | Research Assistant at Intelligent Sensing & Perception Laboratory | The Duke of Edinburgh's International Award Alumni | New Colombo Plan Alumni"
+    "Third Year Electrical, Electronic Engineering & Data Science Student "
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -451,6 +451,73 @@ const contactInfo = {
     "Got an idea or just want to connect? Send me an email or DM me on LinkedIn! 😊",
   email_address: "jaswant.pendem@gmail.com"
 };
+
+
+
+const workExperiences = {
+  display: true, //Set it to true to show workExperiences Section
+  experience: [
+    {
+      role: "Engineering Intern",
+      company: "CalcTree",
+      companylogo: require("./assets/images/calctreeLogo.jpeg"),
+      date: "Nov 2023 – Present",
+      desc: "Lorem ipsumolore magna aliqua.",
+      descBullets: [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      ],
+      footerLink: [
+        {
+          name: "Letter of Acceptance",
+          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      role: "Electrical Engineering Research Intern",
+      company: "Intelligent Sensing & Perception Laboratory",
+      companylogo: require("./assets/images/isplTest.png"),
+      date: "Aug 2023 – Present",
+      desc: "Lorem ipsum dolL."
+      
+    },
+    {
+      role: "Digital Marketing and Communications Intern",
+      company: "UniSport Australia",
+      companylogo: require("./assets/images/unisportLogo1.png"),
+      date: "Sep 2022 – Oct 2022",
+      desc: "Lorem  aliqua.",
+      footerLink: [
+        {
+          name: "Letter of Acceptance",
+          url: "https://drive.google.com/file/d/1vQHJVAsi3E0LAqCW0S11vRphUexspkgV/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      role: "New Colombo Plan Engineer Intern",
+      company: "Challenges Abroad",
+      companylogo: require("./assets/images/caLogo.jpg"),
+      date: "Jun 2022 – Jul 2022",
+      desc: "Lorem olore magna aliqua.",
+      footerLink: [
+        {
+          name: "Letter of Acceptance",
+          url: "https://drive.google.com/file/d/1nFUzp5l79ErpFjSZXHtiLAyK3Ji3vNgj/view?usp=sharing"
+        }
+        //  you can add extra buttons here.
+      ]
+    }
+    
+  ]
+};
+
+
+
+
+
 
 // Twitter Section
 
