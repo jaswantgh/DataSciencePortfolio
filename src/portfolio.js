@@ -45,15 +45,19 @@ const socialMediaLinks = {
   display: true // Set true to display this section, defaults to false
 };
 
+
 // Skills Section
 
 const skillsSection = {
   title: "About Me!",
-  subTitle: "Technical Skills",
+  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
-    emoji("⚡ Explorer: My professional journey has granted me valuable exposure to the sports industry, enriching my diverse skill set. As a perpetual learner, I’m intrigued by the potential of artificial intelligence, healthcare, and cloud computing. I’m ready to use my ability to adapt and my curiosity to explore these areas. I can’t wait to find new challenges and opportunities."),
     emoji(
-      "⚡ Cultural Ambassador: Having lived in three different continents, I bring a global perspective and a deep appreciation for diversity. This enables me to navigate and thrive in multicultural environments, fostering inclusive and productive teams."
+      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+    ),
+    emoji("⚡ Cultural Ambassador: Having lived in three different continents, I bring a global perspective and a deep appreciation for diversity. This enables me to navigate and thrive in multicultural environments, fostering inclusive and productive teams."),
+    emoji(
+      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
     )
   ],
 
@@ -205,10 +209,10 @@ const workExperiences = {
     },
     {
       role: "Electrical Engineering Research Intern",
-      company: "Intelligent Sensing & Perception Laboratory",
+      company: "ISPL Curtin",
       companylogo: require("./assets/images/isplTest.png"),
       date: "Aug 2023 – Present",
-      desc: "Lorem ipsum dolL."
+      desc: "Intelligent Sensing & Perception Laboratory"
       
     },
     {
@@ -240,10 +244,10 @@ const workExperiences = {
     },
     {
       role: "Head of Marketing",
-      company: "Institute of Electrical and Electronics Engineers Curtin",
+      company: "IEEE Curtin",
       companylogo: require("./assets/images/ieee.png"),
       date: "Nov 2023 – Present",
-      desc: "Lorem olore magna aliqua.",
+      desc: "Institute of Electrical and Electronics Engineers Curtin",
     },
     {
       role: "Student Ambassador",
