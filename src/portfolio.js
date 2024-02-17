@@ -55,7 +55,7 @@ const skillsSection = {
     emoji(
       "⚡ Cultural Ambassador: Having lived in three different continents, I bring a global perspective and a deep appreciation for diversity. This enables me to navigate and thrive in multicultural environments, fostering inclusive and productive teams."
     ),
-    subTitle: "Technical Skills"
+  subTitle: "Technical Skills"
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
