@@ -509,6 +509,6 @@ export {
   talkSection,
   podcastSection,
   contactInfo,
-  twitterDetails,
+  //twitterDetails,
   isHireable
 };
