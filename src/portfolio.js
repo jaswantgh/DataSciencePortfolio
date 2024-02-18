@@ -476,7 +476,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://open.spotify.com/episode/1oE4laROa7cS6YnRFXYraZ?si=95d1ee1ec7874aad"
+    "https://gimletmedia.com/shows/reply-all/v4he6k"
   ],
   display: true // Set false to hide this section, defaults to true
 };
