@@ -50,7 +50,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "About Me!",
-  subTitle: "Technologies and Tools",
+  subTitle: "Technologies and Tools I Have Experience in:",
   skills: [
     emoji(
       "⚡ My professional journey has granted me valuable exposure to the sports industry, enriching my diverse skill set. As a learner, I’m intrigued by the potential of artificial intelligence, healthcare, and cloud computing. I’m ready to use my ability to adapt and my curiosity to explore these areas. I can’t wait to find new challenges and opportunities."
@@ -476,7 +476,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://gimletmedia.com/shows/reply-all/v4he6k"
+    "https://open.spotify.com/embed/episode/1oE4laROa7cS6YnRFXYraZ?utm_source=generator&theme=0"
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -484,7 +484,8 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Get in Touch📧"),
   subtitle:
-    "Let’s connect on LinkedIn! If you want to know more about me or my work, or if you would just like to say hello, don’t hesitate to send me a message. I’d love to hear from you. Looking forward to our connection! 😊",
+    "Let’s connect on LinkedIn! 😊",
+  desc: " If you want to know more about me or my work, or if you would just like to say hello, don’t hesitate to send me a message. I’d love to hear from you. Looking forward to our connection! ",
   email_address: "jaswant.pendem@gmail.com"
 };
 
