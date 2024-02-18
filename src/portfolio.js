@@ -50,14 +50,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "About Me!",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "Technical Skills",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ My professional journey has granted me valuable exposure to the sports industry, enriching my diverse skill set. As a learner, I’m intrigued by the potential of artificial intelligence, healthcare, and cloud computing. I’m ready to use my ability to adapt and my curiosity to explore these areas. I can’t wait to find new challenges and opportunities."
     ),
-    emoji("⚡ Cultural Ambassador: Having lived in three different continents, I bring a global perspective and a deep appreciation for diversity. This enables me to navigate and thrive in multicultural environments, fostering inclusive and productive teams."),
+    emoji("⚡ Having lived in three different continents, I bring a global perspective and a deep appreciation for diversity. This enables me to navigate and thrive in multicultural environments, fostering inclusive and productive teams."),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ I am starting a journey to share my personal experiences through blogging and creating educational mini-bootcamp style videos on YouTube soon! ."
     )
   ],
 
@@ -486,10 +486,10 @@ const contactInfo = {
 
 // Twitter Section
 
-//const twitterDetails = {
- // userName: "twitter", //Replace "twitter" with your twitter username without @
-  //display: true // Set true to display this section, defaults to false
-//};
+const twitterDetails = {
+  userName: "twitter", //Replace "twitter" with your twitter username without @
+  display: true // Set true to display this section, defaults to false
+};
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
@@ -509,6 +509,6 @@ export {
   talkSection,
   podcastSection,
   contactInfo,
-  //twitterDetails,
+  ktwitterDetails,
   isHireable
 };
