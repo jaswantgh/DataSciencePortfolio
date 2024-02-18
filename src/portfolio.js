@@ -464,18 +464,19 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
 
 const podcastSection = {
   title: emoji("Podcast Worth Listening 🎙️"),
-  subtitle: "Podcasts Worth Listening To",
+  subtitle: "The Snapchat Thief",
+  desc:"Exposes the clandestine world of dark web hackers, revealing the trade of stolen Snapchat accounts, and subsequently underscores how important cybersecurity is in keeping our online presense safe and secure.",
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
+    "https://open.spotify.com/episode/1oE4laROa7cS6YnRFXYraZ?si=95d1ee1ec7874aad"
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -492,7 +493,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
