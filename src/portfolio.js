@@ -50,7 +50,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "About Me!",
-  subTitle: "Technical Skills",
+  subTitle: "Technologies and Tools",
   skills: [
     emoji(
       "⚡ My professional journey has granted me valuable exposure to the sports industry, enriching my diverse skill set. As a learner, I’m intrigued by the potential of artificial intelligence, healthcare, and cloud computing. I’m ready to use my ability to adapt and my curiosity to explore these areas. I can’t wait to find new challenges and opportunities."
@@ -66,11 +66,11 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
+      skillName: "HTML-5",
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "css3",
+      skillName: "CSS3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
@@ -78,11 +78,11 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
+      skillName: "ReactJS",
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "nodejs",
+      skillName: "NodeJS",
       fontAwesomeClassname: "fab fa-node"
     },
     {
@@ -98,7 +98,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "C",
+      skillName: "C Language",
       fontAwesomeClassname: "fas fa-copyright"
     },
     {
@@ -124,6 +124,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "GitHub Actions",
       fontAwesomeClassname: "fab fa-github"
+    },
+    {
+      skillName: "Git",
+      fontAwesomeClassname: "fab fa-git-alt"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -479,7 +483,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Get in Touch📧"),
   subtitle:
-    "Got an idea or just want to connect? Send me an email or DM me on LinkedIn! 😊",
+    "Let’s connect on LinkedIn! If you want to know more about me or my work, or if you would just like to say hello, don’t hesitate to send me a message. I’d love to hear from you. Looking forward to our connection! 😊",
   email_address: "jaswant.pendem@gmail.com"
 };
 
