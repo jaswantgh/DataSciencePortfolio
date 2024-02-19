@@ -207,10 +207,10 @@ const workExperiences = {
 };
 
 
-// Work experience section
+// Other experience section
 
 const otherExperiences = {
-  display: true, //Set it to true to show workExperiences Section
+  display: true, //Set it to true to show otherExperiences Section
   experience: [
     {
       role: "Engineering Intern",
