@@ -19,7 +19,7 @@ function Header() {
   const {isDark} = useContext(StyleContext);
   const viewExperience = workExperiences.display;
   const viewExperience1 = otherExperiences.display;
-  const viewopenSource = bigProjects.display;
+  const viewbigProjects = bigProjects.display;
   const viewSkills = skillsSection.display;
   const viewAchievement = achievementSection.display;
   const viewBlog = blogSection.display;
