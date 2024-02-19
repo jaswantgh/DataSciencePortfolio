@@ -51,7 +51,7 @@ function Header() {
               <a href="#experience">Experiences</a>
             </li>
           )}
-          {viewExperience && (
+          {viewExperience1 && (
             <li>
               <a href="#experience1">Other Experiences</a>
             </li>
