@@ -206,6 +206,30 @@ const workExperiences = {
   ]
 };
 
+
+// Work experience section
+
+const workExperiences = {
+  display: true, //Set it to true to show workExperiences Section
+  experience: [
+    {
+      role: "Engineering Intern",
+      company: "CalcTree",
+      companylogo: require("./assets/images/calctreeLogo.jpeg"),
+      date: "Nov 2023 – Mar 2024",
+      desc: " Progressively working on 450 Calculator templates wiht a team of 11. Creating calculation templates and resources that are utilized by engineers worldwide, demonstrating my ability to produce valuable content. Collaborated with the tech team to test early versions of the CalcTree platform and provide feedback on upcoming designs",
+      footerLink: [
+        {
+          name: "Letter of Acceptance",
+          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+        }
+      ],
+      
+    }
+    
+  ]
+};
+
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
 
