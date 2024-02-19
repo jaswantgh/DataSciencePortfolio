@@ -11,8 +11,7 @@ import {
   bigProjects,
   blogSection,
   talkSection,
-  achievementSection,
-  bigProjects
+  achievementSection
 } from "../../portfolio";
 
 function Header() {
