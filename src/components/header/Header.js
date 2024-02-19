@@ -19,6 +19,7 @@ function Header() {
   const viewExperience = workExperiences.display;
   const viewExperience1 = otherExperiences.display;
   const viewopenSource = openSource.display;
+  const view
   const viewSkills = skillsSection.display;
   const viewAchievement = achievementSection.display;
   const viewBlog = blogSection.display;
@@ -58,7 +59,7 @@ function Header() {
           )}
           {viewopenSource && (
             <li>
-              <a href="#openSource">Portfolio</a>
+              <a href="#portfolio">Portfolio</a>
             </li>
           )}
           {viewAchievement && (
