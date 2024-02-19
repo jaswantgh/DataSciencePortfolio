@@ -1,6 +1,6 @@
 import React, {useContext} from "react";
 import "./WorkExperience.scss";
-import ExperienceCard from "../../components/experienceCard/ExperienceCard";
+import ExperienceCard1 from "../../components/experienceCard/ExperienceCard";
 import {otherExperiences} from "../../portfolio";
 import {Fade} from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
@@ -17,7 +17,7 @@ export default function WorkExperience() {
               <div className="experience-cards-div">
                 {otherExperiences.experience.map((card, i) => {
                   return (
-                    <ExperienceCard
+                    <ExperienceCard1
                       key={i}
                       isDark={isDark}
                       cardInfo={{
