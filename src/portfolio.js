@@ -209,7 +209,7 @@ const workExperiences = {
 
 // Work experience section
 
-const workExperiences = {
+const otherExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
@@ -460,6 +460,7 @@ export {
   educationInfo,
   techStack,
   workExperiences,
+  otherExperiences,
   openSource,
   bigProjects,
   achievementSection,
