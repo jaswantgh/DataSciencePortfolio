@@ -5,13 +5,13 @@ import {otherExperiences} from "../../portfolio";
 import {Fade} from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
 
-export default function WorkExperience() {
+export default function OtherExperience() {
   const {isDark} = useContext(StyleContext);
   if (otherExperiences.display) {
     return (
       <div id="otherExperience">
         <Fade bottom duration={1000} distance="20px">
-          <div className="experience-container" id="workExperience">
+          <div className="experience-container" id="otherExperience">
             <div>
               <h1 className="experience-heading">Other Experiences</h1>
               <div className="experience-cards-div">
