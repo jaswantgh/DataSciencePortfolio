@@ -8,6 +8,7 @@ import {
   workExperiences,
   skillsSection,
   bigProjects,
+  openSource,
   blogSection,
   talkSection,
   achievementSection
