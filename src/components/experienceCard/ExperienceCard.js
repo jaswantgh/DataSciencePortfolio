@@ -78,6 +78,9 @@ export default function ExperienceCard({cardInfo, isDark}) {
         <ul>
           <GetDescBullets descBullets={cardInfo.descBullets} isDark={isDark} />
         </ul>
+        {cardInfo.footer && cardInfo.footer.map((link, i) => (
+          <a key={i} href={link.url}>{link.name}</a>
+        ))}
       </div>
     </div>
   );
