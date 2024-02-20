@@ -193,10 +193,16 @@ const workExperiences = {
       company: "CalcTree",
       companylogo: require("./assets/images/calctreeLogo.jpeg"),
       date: "Nov 2023 – Mar 2024",
-      desc: " Progressively working on 450 Calculator templates wiht a team of 11. Creating calculation templates and resources that are utilized by engineers worldwide, demonstrating my ability to produce valuable content. Collaborated with the tech team to test early versions of the CalcTree platform and provide feedback on upcoming designs",
+      desc: " Progressively creating calculation templates and resources that are utilized by engineers worldwide, demonstrating my ability to produce valuable content. ",
       footerLink: [
         {
           name: "Letter of Acceptance",
+          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+        }
+      ],
+      footerLink: [
+        {
+          name: "My Experience",
           url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
         }
       ],
@@ -207,7 +213,13 @@ const workExperiences = {
       company: "ISPL Curtin",
       companylogo: require("./assets/images/isplTest.png"),
       date: "Aug 2023 – Present",
-      desc: "Intelligent Sensing & Perception Laboratory"
+      desc: "Intelligent Sensing & Perception Laboratory",
+      footerLink: [
+        {
+          name: "My Experience",
+          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+        }
+      ],
       
     },
     {
@@ -221,7 +233,13 @@ const workExperiences = {
           name: "Letter of Acceptance",
           url: "https://drive.google.com/file/d/1vQHJVAsi3E0LAqCW0S11vRphUexspkgV/view?usp=sharing"
         }
-      ]
+      ],
+      footerLink: [
+        {
+          name: "My Experience",
+          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+        }
+      ],
     },
     {
       role: "New Colombo Plan Engineer Intern",
@@ -234,8 +252,13 @@ const workExperiences = {
           name: "Letter of Acceptance",
           url: "https://drive.google.com/file/d/1nFUzp5l79ErpFjSZXHtiLAyK3Ji3vNgj/view?usp=sharing"
         }
-        //  you can add extra buttons here.
-      ]
+      ],
+    footerLink: [
+      {
+        name: "My Experience",
+        url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+      }
+     ],
     },
     {
       role: "Head of Marketing",
@@ -243,6 +266,12 @@ const workExperiences = {
       companylogo: require("./assets/images/ieee.png"),
       date: "Nov 2023 – Present",
       desc: "Institute of Electrical and Electronics Engineers Curtin",
+      footerLink: [
+        {
+          name: "My Experience",
+          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+        }
+      ],
     },
     {
       role: "Student Ambassador",
@@ -254,6 +283,12 @@ const workExperiences = {
         "Demonstrated adaptability in challenging situations, controlling audience attention and leading groups effectively, while continually improving public speaking skills and networking capabilities.",
         "Successfully managed diverse tasks and environments, utilizing non-verbal communication and problem-solving skills, while gaining insights into self-awareness, decision-making, teamwork, and professional development."
       ],
+      footerLink: [
+        {
+          name: "My Experience",
+          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+        }
+      ],
     },
     {
       role: "Secretary",
@@ -261,6 +296,12 @@ const workExperiences = {
       companylogo: require("./assets/images/kiwnais.png"),
       date: "Feb 2023 – Present",
       desc: "Lorem olore magna aliqua.",
+      footerLink: [
+        {
+          name: "My Experience",
+          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+        }
+      ],
     },
     {
       role: " Computer Science Mentor",
@@ -268,6 +309,12 @@ const workExperiences = {
       companylogo: require("./assets/images/coderdojo.png"),
       date: "Feb 2023 – Present",
       desc: "Lorem olore magna aliqua.",
+      footerLink: [
+        {
+          name: "My Experience",
+          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+        }
+      ],
     }
     
   ]
@@ -291,6 +338,7 @@ const otherExperiences = {
           url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
         }
       ],
+      
       
     }
     
