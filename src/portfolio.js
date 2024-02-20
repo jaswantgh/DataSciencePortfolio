@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Jaswant Pendem",
-  title: "Welcome to my Website, I'm Jazz",
+  title: "Hi All, I'm Jazz",
   subTitle: emoji(
     " Undergraduate Third Year Electrical, Electronic Engineering & Data Science Student "
   ),
@@ -167,8 +167,8 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Sales", //Insert stack or technology you have experience in
-      progressPercentage: "30%" //Insert relative proficiency in percentage
+      Stack: "Designing", //Insert stack or technology you have experience in
+      progressPercentage: "50%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Digital Marketing",
