@@ -292,8 +292,7 @@ const otherExperiences = {
         }
       ],
       
-    },
-    
+    }
     
   ]
 };
