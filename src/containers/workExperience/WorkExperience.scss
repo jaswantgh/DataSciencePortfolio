@@ -51,3 +51,18 @@
 .footer-link-button:hover {
   background: #5372a1;
 }
+
+
+.rainbow-gradient-button {
+  display: inline-block;
+  padding: 0.5em 1.5em;
+  text-decoration: none;
+  background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
+  color: #FFF;
+  border-radius: 50px; /* This will make the button round */
+  transition: all 0.2s;
+}
+
+.rainbow-gradient-button:hover {
+  background: linear-gradient(90deg, violet, indigo, blue, green, yellow, orange, red);
+}
