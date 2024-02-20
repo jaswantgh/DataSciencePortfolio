@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Jaswant Pendem",
-  title: "Hi all, I'm Jazz",
+  title: "Welcome to my Website, I'm Jazz",
   subTitle: emoji(
     " Undergraduate Third Year Electrical, Electronic Engineering & Data Science Student "
   ),
@@ -53,11 +53,11 @@ const skillsSection = {
   subTitle: "Technologies and Tools I Have Experience in:",
   skills: [
     emoji(
-      "⚡ My professional journey has granted me valuable exposure to the sports industry, enriching my diverse skill set. As a learner, I’m intrigued by the potential of artificial intelligence, healthcare, and cloud computing. I’m ready to use my ability to adapt and my curiosity to explore these areas. I can’t wait to find new challenges and opportunities."
+      "⚡ Exposure to the sports industry, and intrigued by the potential of artificial intelligence, healthcare, and cloud computing."
     ),
-    emoji("⚡ Having lived in three different continents, I bring a global perspective and a deep appreciation for diversity. This enables me to navigate and thrive in multicultural environments, fostering inclusive and productive teams."),
+    emoji("⚡ Global perspective and a deep appreciation for diversity."),
     emoji(
-      "⚡ I am starting a journey to share my personal experiences through blogging and creating educational mini-bootcamp style videos on YouTube soon! ."
+      "⚡ Blogging and creating educational mini-bootcamp style videos on YouTube soon!"
     )
   ],
 
@@ -211,7 +211,7 @@ const workExperiences = {
 
 const otherExperiences = {
   display: true, //Set it to true to show otherExperiences Section
-  experience: [
+  experience1: [
     {
       role: "Engineering Intern",
       company: "CalcTree",
