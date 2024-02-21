@@ -196,14 +196,8 @@ const workExperiences = {
       desc: " Progressively creating calculation templates and resources that are utilized by engineers worldwide, demonstrating my ability to produce valuable content. ",
       footerLink: [
         {
-          name: "Letter of Acceptance",
-          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
-        }
-      ],
-      footerLink: [
-        {
-          name: "My Experience",
-          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+          name: "Read my Experience",
+          url: "https://lunar-rugby-713.notion.site/d743f712646c4a09959c8e8b379b56ff?v=33d7a13e09b046c2a8889844e9a88fea&pvs=4"
         }
       ],
       
@@ -216,8 +210,8 @@ const workExperiences = {
       desc: "Intelligent Sensing & Perception Laboratory",
       footerLink: [
         {
-          name: "My Experience",
-          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+          name: "Read My Experience",
+          url: ""
         }
       ],
       
@@ -227,17 +221,11 @@ const workExperiences = {
       company: "UniSport Australia",
       companylogo: require("./assets/images/unisportLogo1.png"),
       date: "Sep 2022 – Oct 2022",
-      desc: "Lorem  aliqua.",
+      desc: "",
       footerLink: [
         {
-          name: "Letter of Acceptance",
+          name: "Read My Experience",
           url: "https://drive.google.com/file/d/1vQHJVAsi3E0LAqCW0S11vRphUexspkgV/view?usp=sharing"
-        }
-      ],
-      footerLink: [
-        {
-          name: "My Experience",
-          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
         }
       ],
     },
@@ -249,16 +237,10 @@ const workExperiences = {
       desc: "Lorem olore magna aliqua.",
       footerLink: [
         {
-          name: "Letter of Acceptance",
+          name: "Read My Experience",
           url: "https://drive.google.com/file/d/1nFUzp5l79ErpFjSZXHtiLAyK3Ji3vNgj/view?usp=sharing"
         }
       ],
-    footerLink: [
-      {
-        name: "My Experience",
-        url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
-      }
-     ],
     },
     {
       role: "Head of Marketing",
@@ -268,7 +250,7 @@ const workExperiences = {
       desc: "Institute of Electrical and Electronics Engineers Curtin",
       footerLink: [
         {
-          name: "My Experience",
+          name: " Read My Experience",
           url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
         }
       ],
@@ -285,7 +267,7 @@ const workExperiences = {
       ],
       footerLink: [
         {
-          name: "My Experience",
+          name: " Read My Experience",
           url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
         }
       ],
@@ -295,11 +277,11 @@ const workExperiences = {
       company: "Kiwanis Australia",
       companylogo: require("./assets/images/kiwnais.png"),
       date: "Feb 2023 – Present",
-      desc: "Lorem olore magna aliqua.",
+      desc: ".",
       footerLink: [
         {
-          name: "My Experience",
-          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+          name: "Read My Experience",
+          url: ""
         }
       ],
     },
@@ -311,8 +293,8 @@ const workExperiences = {
       desc: "Lorem olore magna aliqua.",
       footerLink: [
         {
-          name: "My Experience",
-          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+          name: "Read My Experience",
+          url: ""
         }
       ],
     }
