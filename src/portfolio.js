@@ -320,13 +320,6 @@ const otherExperiences = {
           url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
         }
       ],
-      rainbowLink: [
-        {
-          name: "Assignment 1 : Bushfire Monitoring System",
-          url: "https://github.com/jaswantgh/DataStructuresAndAlgorithms"
-        }
-        //  you can add extra buttons here.
-      ]
       
     }
     
