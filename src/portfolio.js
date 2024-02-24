@@ -193,7 +193,7 @@ const workExperiences = {
       company: "CalcTree",
       companylogo: require("./assets/images/calctreeLogo.jpeg"),
       date: "Nov 2023 – Mar 2024",
-      desc: " Progressively creating calculation templates and resources that are utilized by engineers worldwide, demonstrating my ability to produce valuable content. ",
+      desc: "Sydney, NSW, Australia (Remote)",
       footerLink: [
         {
           name: "Read my Experience",
@@ -207,11 +207,11 @@ const workExperiences = {
       company: "ISPL Curtin",
       companylogo: require("./assets/images/isplTest.png"),
       date: "Aug 2023 – Present",
-      desc: "Intelligent Sensing & Perception Laboratory",
+      desc: "Intelligent Sensing & Perception Laboratory ",
       footerLink: [
         {
           name: "Read My Experience",
-          url: ""
+          url: "https://lunar-rugby-713.notion.site/Experience-as-a-Research-Assistant-with-ISPL-0974cc674746493c8f6a691b5e721b8d?pvs=4"
         }
       ],
       
@@ -225,7 +225,7 @@ const workExperiences = {
       footerLink: [
         {
           name: "Read My Experience",
-          url: "https://drive.google.com/file/d/1vQHJVAsi3E0LAqCW0S11vRphUexspkgV/view?usp=sharing"
+          url: "https://lunar-rugby-713.notion.site/Intern-Experience-with-UniSport-dfa3a1159d0147b7bec336db25317e9e?pvs=4"
         }
       ],
     },
@@ -234,11 +234,11 @@ const workExperiences = {
       company: "Challenges Abroad",
       companylogo: require("./assets/images/caLogo.jpg"),
       date: "Jun 2022 – Jul 2022",
-      desc: "Lorem olore magna aliqua.",
+      desc: "GoGlobal",
       footerLink: [
         {
           name: "Read My Experience",
-          url: "https://drive.google.com/file/d/1nFUzp5l79ErpFjSZXHtiLAyK3Ji3vNgj/view?usp=sharing"
+          url: "https://lunar-rugby-713.notion.site/Experience-as-a-New-Colombo-Plan-Engineer-Intern-690a6ac2788c4a8f9423bcbfb582e97b?pvs=4"
         }
       ],
     },
@@ -251,7 +251,7 @@ const workExperiences = {
       footerLink: [
         {
           name: " Read My Experience",
-          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+          url: ""
         }
       ],
     },
@@ -260,15 +260,11 @@ const workExperiences = {
       company: "Curtin University",
       companylogo: require("./assets/images/curtinLogo2.jpg"),
       date: "Jun 2023 – Present",
-      desc: "Awarded with Tier 2 Curtin Extra - Professional Development Stream Recognition.",
-      descBullets: [
-        "Demonstrated adaptability in challenging situations, controlling audience attention and leading groups effectively, while continually improving public speaking skills and networking capabilities.",
-        "Successfully managed diverse tasks and environments, utilizing non-verbal communication and problem-solving skills, while gaining insights into self-awareness, decision-making, teamwork, and professional development."
-      ],
+      desc: "",
       footerLink: [
         {
           name: " Read My Experience",
-          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
+          url: "https://lunar-rugby-713.notion.site/Experience-as-a-Student-Ambassador-at-Curtin-fed0bac4cd284326a25ecef96267696d?pvs=4"
         }
       ],
     },
@@ -277,11 +273,11 @@ const workExperiences = {
       company: "Kiwanis Australia",
       companylogo: require("./assets/images/kiwnais.png"),
       date: "Feb 2023 – Present",
-      desc: ".",
+      desc: "Board of Directors",
       footerLink: [
         {
           name: "Read My Experience",
-          url: ""
+          url: "https://lunar-rugby-713.notion.site/Experience-as-Secretary-with-Kiwanis-0d9410af34de45e68f77f0d3fe38488e?pvs=4"
         }
       ],
     },
@@ -290,11 +286,11 @@ const workExperiences = {
       company: "AASQA CoderDojo",
       companylogo: require("./assets/images/coderdojo.png"),
       date: "Feb 2023 – Present",
-      desc: "Lorem olore magna aliqua.",
+      desc: "",
       footerLink: [
         {
           name: "Read My Experience",
-          url: ""
+          url: "https://lunar-rugby-713.notion.site/Experience-as-a-Computer-Science-Mentor-with-CoderDojo-Curtin-73910c8ad5684adeabdf25e24f3b7ac0?pvs=4"
         }
       ],
     }
@@ -303,28 +299,6 @@ const workExperiences = {
 };
 
 
-// Other experience section
-
-const otherExperiences = {
-  display: true, //Set it to true to show otherExperiences Section
-  experience1: [
-    {
-      role: "Engineering Intern",
-      company: "CalcTree",
-      companylogo: require("./assets/images/calctreeLogo.jpeg"),
-      date: "Nov 2023 – Mar 2024",
-      desc: " Progressively working on 450 Calculator templates wiht a team of 11. Creating calculation templates and resources that are utilized by engineers worldwide, demonstrating my ability to produce valuable content. Collaborated with the tech team to test early versions of the CalcTree platform and provide feedback on upcoming designs",
-      footerLink: [
-        {
-          name: "Letter of Acceptance",
-          url: "https://drive.google.com/file/d/1yF0P_8P3BZ1slZ5oTG6dIympTwkh9xDM/view?usp=sharing"
-        }
-      ],
-      
-    }
-    
-  ]
-};
 
 
 // Some big projects you have worked on
