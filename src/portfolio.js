@@ -532,7 +532,6 @@ export {
   educationInfo,
   techStack,
   workExperiences,
-  otherExperiences,
   bigProjects,
   openSource,
   achievementSection,
