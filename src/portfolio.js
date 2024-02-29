@@ -463,10 +463,10 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://jaswantgh.medium.com/procrastination-a-psychological-perspective-and-strategies-to-overcome-it-42e4239104c3",
+      title: "Procrastination: A Psychological Perspective and Strategies to Overcome It",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "A personal reflection on the struggle with procrastination, its psychological roots, the impact of digital distractions, and the exploration of strategies to overcome it."
     }
   ],
   display: true // Set false to hide this section, defaults to true
