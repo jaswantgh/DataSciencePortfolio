@@ -53,9 +53,9 @@ const skillsSection = {
   subTitle: "Technologies and Tools I Have Experience in:",
   skills: [
     emoji(
-      "⚡ Exposure to the sports industry, and intrigued by the potential of artificial intelligence, healthcare, and cloud computing."
+      "⚡ I am a Tech Enthusiast with exposure to the sports industry, and intrigued by the potential of artificial intelligence, healthcare, and cloud computing."
     ),
-    emoji("⚡ Global perspective and a deep appreciation for diversity."),
+    emoji("⚡ Curious, open-minded, and dedicated to lifelong learning and sharing that knowledge with others."),
     emoji(
       "⚡ Blogging and creating educational mini-bootcamp style videos on YouTube soon!"
     )
