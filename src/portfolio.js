@@ -21,9 +21,9 @@ const illustration = {
 
 const greeting = {
   username: "Jaswant Pendem",
-  title: "Hi All, I'm Jazz",
+  title: "Hi All, I'm Jazzy",
   subTitle: emoji(
-    " Undergraduate Third Year Electrical, Electronic Engineering & Data Science Student "
+    " Penultimate Electrical, Electronic Engineering & Data Science Student "
   ),
   resumeLink:
     "https://drive.google.com/file/d/1JWXaKECSUhjy6OQQds3Fhy4M-CGQwpIm/view?usp=sharing", // Set to empty to hide the button
