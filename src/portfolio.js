@@ -70,7 +70,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "CSS3",
+      skillName: "OMNET++",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
