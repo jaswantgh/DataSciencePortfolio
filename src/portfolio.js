@@ -70,7 +70,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "CSS3",
+      skillName: "OMNE+",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
@@ -510,7 +510,7 @@ const contactInfo = {
   subtitle:
     "Let’s connect on LinkedIn! 😊",
   desc: " If you want to know more about me or my work, or if you would just like to say hello, don’t hesitate to send me a message. I’d love to hear from you. Looking forward to our connection! ",
-  email_address: "jaswant.pendem@gmail.com"
+  email_address: "21026922@student.curtin.edu.au"
 };
 
 
