@@ -145,7 +145,7 @@ const educationInfo = {
       duration: "February 2022 - Present",
       desc: "Key Units Completed",
       descBullets: [
-        "Units: ELEN3004, CMPE2003, BLAW2000, ENEN2000,CMPE2001,ETEN2000,ETEN2001,ELEN2001, ELEN2000, MATH1021, MATH2009, INDE1001, MCEN1000"
+        "Units: ELEN3004, CMPE2003, BLAW2000, ENEN2000, CMPE2001, ETEN2000, ETEN2001, ELEN2001, ELEN2000, MATH1021, MATH2009, INDE1001, MCEN1000"
         
       ]
     },
@@ -156,7 +156,7 @@ const educationInfo = {
       duration: "February 2022 - Present",
 
       desc: "Key Units Completed",
-      descBullets: ["Units:ISEC2001,COMP3001,CMPE2000,STAT2005,STAT1006,COMP1002,COMP1000,STAT1005"]
+      descBullets: ["Units: ISEC2001, COMP3001, CMPE2000, STAT2005, STAT1006, COMP1002, COMP1000, STAT1005"]
     }
   ]
 };
@@ -190,10 +190,10 @@ const workExperiences = {
   experience: [
       {
       role: "Research Intern",
-      company: "Indian Institute of Technology Kharagpur",
-      companylogo: require("./assets/images/iit.png"),
+      company: "IIT KGP",
+      companylogo: require("./assets/images/iit.jpg"),
       date: "Nov 2024 – Feb 2025",
-      desc: "Intelligent Sensing & Perception Laboratory ",
+      desc: "Kharagpur, West Bengal (On-Site)",
       footerLink: [
         {
           name: "Read My Experience",
@@ -220,7 +220,7 @@ const workExperiences = {
       company: "Curtin University",
       companylogo: require("./assets/images/curtinLogo2.jpg"),
       date: "Jun 2023 – Present",
-      desc: "",
+      desc: "Perth, Western Australia (On-Site)",
       footerLink: [
         {
           name: " Read My Experience",
@@ -247,7 +247,7 @@ const workExperiences = {
       company: "ISPL Curtin",
       companylogo: require("./assets/images/isplTest.png"),
       date: "Aug 2023 – Present",
-      desc: "Intelligent Sensing & Perception Laboratory ",
+      desc: "Perth, Western Australia (On-Site) ",
       footerLink: [
         {
           name: "Read My Experience",
@@ -261,7 +261,7 @@ const workExperiences = {
       company: "UniSport Australia",
       companylogo: require("./assets/images/unisportLogo1.png"),
       date: "Sep 2022 – Oct 2022",
-      desc: "",
+      desc: "Perth, Western Australia (On-Site)",
       footerLink: [
         {
           name: "Read My Experience",
@@ -274,7 +274,7 @@ const workExperiences = {
       company: "IEEE Curtin",
       companylogo: require("./assets/images/ieee.png"),
       date: "Nov 2023 – Present",
-      desc: "Institute of Electrical and Electronics Engineers Curtin",
+      desc: "Perth, Western Australia (Hybrid)",
       footerLink: [
         {
           name: " Read My Experience",
@@ -285,13 +285,13 @@ const workExperiences = {
     {
       role: "Secretary + OCM",
       company: "Desi Student Society",
-      companylogo: require("./assets/images/kiwnais.png"),
+      companylogo: require("./assets/images/desi.png"),
       date: "Feb 2023 – Present",
-      desc: "",
+      desc: "Perth, Western Australia (Hybrid)",
       footerLink: [
         {
           name: "Read My Experience",
-          url: "https://lunar-rugby-713.notion.site/Experience-as-Secretary-with-Kiwanis-0d9410af34de45e68f77f0d3fe38488e?pvs=4"
+          url: "https://lunar-rugby-713.notion.site/1837499df0fe8021b15ad45ce259b1b0?v=1837499df0fe8130a720000c662a0224"
         }
       ],
     }
@@ -466,7 +466,7 @@ const blogSection = {
       url: "https://jaswantgh.medium.com/procrastination-a-psychological-perspective-and-strategies-to-overcome-it-42e4239104c3",
       title: "Procrastination: A Psychological Perspective and Strategies to Overcome It",
       description:
-        "A personal reflection on the struggle with procrastination, its psychological roots, the impact of digital distractions, and the exploration of strategies to overcome it."
+        "Reflection: Struggle with procrastination, the impact of digital distractions, and strategies to overcome it."
     }
   ],
   display: true // Set false to hide this section, defaults to true
