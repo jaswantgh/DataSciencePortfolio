@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Jaswant Pendem",
-  title: "Hi All, I'm Jazzyy",
+  title: "Hi All, I'm Jazzy",
   subTitle: emoji(
     " Penultimate Electrical, Electronic Engineering & Data Science Student "
   ),
@@ -49,15 +49,15 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "About Me!",
+  title: "About Me :)",
   subTitle: "Technologies and Tools I Have Experience in:",
   skills: [
     emoji(
-      "⚡ Tech Enthusiast with exposure to the sports industry, and intrigued by the potential of artificial intelligence, healthcare, and cloud computing."
+      "⚡Passionate about medical research and AI/ML applications. "
     ),
-    emoji("⚡ Curious, open-minded, and dedicated to lifelong learning and sharing that knowledge with others."),
+    emoji("⚡ Curious, open-minded, enjoy networking and building a personal portfolio."),
     emoji(
-      "⚡ Blogging and creating educational mini-bootcamp style videos on YouTube soon!"
+      "⚡ Blogging and showcasing my educational data analysis projects!"
     )
   ],
 
@@ -70,11 +70,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-<<<<<<< HEAD
-      skillName: "OMNE+",
-=======
       skillName: "OMNET++",
->>>>>>> b97eebf8139c5a9b35c1c153a340bb4731e1a9a3
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
@@ -149,7 +145,7 @@ const educationInfo = {
       duration: "February 2022 - Present",
       desc: "Key Units Completed",
       descBullets: [
-        "Units: Electrical Circuits, Singals & Systems, Electronic Fundamentals "
+        "Units: ELEN3004, CMPE2003, BLAW2000, ENEN2000,CMPE2001,ETEN2000,ETEN2001,ELEN2001, ELEN2000, MATH1021, MATH2009, INDE1001, MCEN1000"
         
       ]
     },
@@ -160,7 +156,7 @@ const educationInfo = {
       duration: "February 2022 - Present",
 
       desc: "Key Units Completed",
-      descBullets: ["Units: Unix & C Programming, Data Structures & Algorithms, Introduction to Probability & Data Analysis, Regression & Nonparametric Inference"]
+      descBullets: ["Units:ISEC2001,COMP3001,CMPE2000,STAT2005,STAT1006,COMP1002,COMP1000,STAT1005"]
     }
   ]
 };
@@ -172,15 +168,15 @@ const techStack = {
   experience: [
     {
       Stack: "Designing", //Insert stack or technology you have experience in
-      progressPercentage: "50%" //Insert relative proficiency in percentage
+      progressPercentage: "60%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Digital Marketing",
-      progressPercentage: "80%"
+      progressPercentage: "90%"
     },
     {
-      Stack: "Programming",
-      progressPercentage: "40%"
+      Stack: "Research",
+      progressPercentage: "80%"
     }
 
   ],
@@ -192,8 +188,48 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
+      {
+      role: "Research Intern",
+      company: "Indian Institute of Technology Kharagpur",
+      companylogo: require("./assets/images/iit.png"),
+      date: "Nov 2024 – Feb 2025",
+      desc: "Intelligent Sensing & Perception Laboratory ",
+      footerLink: [
+        {
+          name: "Read My Experience",
+          url: "https://lunar-rugby-713.notion.site/Experience-as-a-Research-Assistant-with-ISPL-0974cc674746493c8f6a691b5e721b8d?pvs=4"
+        }
+      ],
+      
+    },
     {
-      role: "Engineering Intern",
+      role: "Sustainability Intern",
+      company: "Challenges Abroad",
+      companylogo: require("./assets/images/caLogo.jpg"),
+      date: "Jun 2022 – Jul 2022",
+      desc: "Phnom Penh, Cambodia ( On-Site)",
+      footerLink: [
+        {
+          name: "Read My Experience",
+          url: "https://lunar-rugby-713.notion.site/Experience-as-a-New-Colombo-Plan-Engineer-Intern-690a6ac2788c4a8f9423bcbfb582e97b?pvs=4"
+        }
+      ],
+    },
+    {
+      role: "Student Ambassador",
+      company: "Curtin University",
+      companylogo: require("./assets/images/curtinLogo2.jpg"),
+      date: "Jun 2023 – Present",
+      desc: "",
+      footerLink: [
+        {
+          name: " Read My Experience",
+          url: "https://lunar-rugby-713.notion.site/Experience-as-a-Student-Ambassador-at-Curtin-fed0bac4cd284326a25ecef96267696d?pvs=4"
+        }
+      ],
+    },
+    {
+      role: "Engineer Intern",
       company: "CalcTree",
       companylogo: require("./assets/images/calctreeLogo.jpeg"),
       date: "Nov 2023 – Mar 2024",
@@ -234,20 +270,7 @@ const workExperiences = {
       ],
     },
     {
-      role: "New Colombo Plan Engineer Intern",
-      company: "Challenges Abroad",
-      companylogo: require("./assets/images/caLogo.jpg"),
-      date: "Jun 2022 – Jul 2022",
-      desc: "GoGlobal",
-      footerLink: [
-        {
-          name: "Read My Experience",
-          url: "https://lunar-rugby-713.notion.site/Experience-as-a-New-Colombo-Plan-Engineer-Intern-690a6ac2788c4a8f9423bcbfb582e97b?pvs=4"
-        }
-      ],
-    },
-    {
-      role: "Head of Marketing",
+      role: "Director of Member Welfare + Head of Marketing",
       company: "IEEE Curtin",
       companylogo: require("./assets/images/ieee.png"),
       date: "Nov 2023 – Present",
@@ -260,45 +283,18 @@ const workExperiences = {
       ],
     },
     {
-      role: "Student Ambassador",
-      company: "Curtin University",
-      companylogo: require("./assets/images/curtinLogo2.jpg"),
-      date: "Jun 2023 – Present",
-      desc: "",
-      footerLink: [
-        {
-          name: " Read My Experience",
-          url: "https://lunar-rugby-713.notion.site/Experience-as-a-Student-Ambassador-at-Curtin-fed0bac4cd284326a25ecef96267696d?pvs=4"
-        }
-      ],
-    },
-    {
-      role: "Secretary",
-      company: "Kiwanis Australia",
+      role: "Secretary + OCM",
+      company: "Desi Student Society",
       companylogo: require("./assets/images/kiwnais.png"),
       date: "Feb 2023 – Present",
-      desc: "Board of Directors",
+      desc: "",
       footerLink: [
         {
           name: "Read My Experience",
           url: "https://lunar-rugby-713.notion.site/Experience-as-Secretary-with-Kiwanis-0d9410af34de45e68f77f0d3fe38488e?pvs=4"
         }
       ],
-    },
-    {
-      role: " Computer Science Mentor",
-      company: "AASQA CoderDojo",
-      companylogo: require("./assets/images/coderdojo.png"),
-      date: "Feb 2023 – Present",
-      desc: "",
-      footerLink: [
-        {
-          name: "Read My Experience",
-          url: "https://lunar-rugby-713.notion.site/Experience-as-a-Computer-Science-Mentor-with-CoderDojo-Curtin-73910c8ad5684adeabdf25e24f3b7ac0?pvs=4"
-        }
-      ],
     }
-    
   ]
 };
 
